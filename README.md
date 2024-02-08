@@ -1,12 +1,6 @@
 ---
-title: Fitness QA Bot
-emoji: 🔥
-colorFrom: pink
-colorTo: yellow
+title: Fitness_QA_Bot
+app_file: main.py
 sdk: gradio
-sdk_version: 4.17.0
-app_file: app.py
-pinned: false
+sdk_version: 4.16.0
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
